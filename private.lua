@@ -35,4 +35,4 @@
 @@@@%    @@@@@@@@@@@@@@+.                                   :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ]]--
 
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/66082eeec7d0099c956d72f550060bc5b12d1111d8d53210069f4a28285f3087/download"))()
+loadstring(game:HttpGet("https://silux-loader.silux.workers.dev"))()
